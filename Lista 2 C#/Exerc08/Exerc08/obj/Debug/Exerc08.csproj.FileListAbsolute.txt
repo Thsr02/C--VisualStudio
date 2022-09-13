@@ -1,0 +1,7 @@
+E:\DS Helio\Lista de exercicios\Lista 2 C#\Exerc08\Exerc08\obj\Debug\Exerc08.csprojAssemblyReference.cache
+E:\DS Helio\Lista de exercicios\Lista 2 C#\Exerc08\Exerc08\obj\Debug\Exerc08.csproj.CoreCompileInputs.cache
+E:\DS Helio\Lista de exercicios\Lista 2 C#\Exerc08\Exerc08\bin\Debug\Exerc08.exe.config
+E:\DS Helio\Lista de exercicios\Lista 2 C#\Exerc08\Exerc08\bin\Debug\Exerc08.exe
+E:\DS Helio\Lista de exercicios\Lista 2 C#\Exerc08\Exerc08\bin\Debug\Exerc08.pdb
+E:\DS Helio\Lista de exercicios\Lista 2 C#\Exerc08\Exerc08\obj\Debug\Exerc08.exe
+E:\DS Helio\Lista de exercicios\Lista 2 C#\Exerc08\Exerc08\obj\Debug\Exerc08.pdb

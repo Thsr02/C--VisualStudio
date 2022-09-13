@@ -1,0 +1,6 @@
+E:\2º Módulo DS\DS-Hélio\Lista2\exer05_List2\exer05_List2\obj\Debug\exer05_List2.csproj.CoreCompileInputs.cache
+E:\2º Módulo DS\DS-Hélio\Lista2\exer05_List2\exer05_List2\bin\Debug\exer05_List2.exe.config
+E:\2º Módulo DS\DS-Hélio\Lista2\exer05_List2\exer05_List2\bin\Debug\exer05_List2.exe
+E:\2º Módulo DS\DS-Hélio\Lista2\exer05_List2\exer05_List2\bin\Debug\exer05_List2.pdb
+E:\2º Módulo DS\DS-Hélio\Lista2\exer05_List2\exer05_List2\obj\Debug\exer05_List2.exe
+E:\2º Módulo DS\DS-Hélio\Lista2\exer05_List2\exer05_List2\obj\Debug\exer05_List2.pdb

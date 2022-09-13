@@ -1,0 +1,7 @@
+E:\DS Helio\Lista de exercicios\Lista 2 C#\Exerc06b\Exerc06b\bin\Debug\Exerc06b.exe.config
+E:\DS Helio\Lista de exercicios\Lista 2 C#\Exerc06b\Exerc06b\bin\Debug\Exerc06b.exe
+E:\DS Helio\Lista de exercicios\Lista 2 C#\Exerc06b\Exerc06b\bin\Debug\Exerc06b.pdb
+E:\DS Helio\Lista de exercicios\Lista 2 C#\Exerc06b\Exerc06b\obj\Debug\Exerc06b.csprojAssemblyReference.cache
+E:\DS Helio\Lista de exercicios\Lista 2 C#\Exerc06b\Exerc06b\obj\Debug\Exerc06b.csproj.CoreCompileInputs.cache
+E:\DS Helio\Lista de exercicios\Lista 2 C#\Exerc06b\Exerc06b\obj\Debug\Exerc06b.exe
+E:\DS Helio\Lista de exercicios\Lista 2 C#\Exerc06b\Exerc06b\obj\Debug\Exerc06b.pdb

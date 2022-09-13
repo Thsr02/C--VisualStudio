@@ -1,0 +1,8 @@
+E:\DS Helio\Lista de exercicios\Lista 1 Extra C#\Exerc06\Exerc06\bin\Debug\Exerc06.exe.config
+E:\DS Helio\Lista de exercicios\Lista 1 Extra C#\Exerc06\Exerc06\bin\Debug\Exerc06.exe
+E:\DS Helio\Lista de exercicios\Lista 1 Extra C#\Exerc06\Exerc06\bin\Debug\Exerc06.pdb
+E:\DS Helio\Lista de exercicios\Lista 1 Extra C#\Exerc06\Exerc06\obj\Debug\Exerc06.csproj.AssemblyReference.cache
+E:\DS Helio\Lista de exercicios\Lista 1 Extra C#\Exerc06\Exerc06\obj\Debug\Exerc06.csproj.SuggestedBindingRedirects.cache
+E:\DS Helio\Lista de exercicios\Lista 1 Extra C#\Exerc06\Exerc06\obj\Debug\Exerc06.csproj.CoreCompileInputs.cache
+E:\DS Helio\Lista de exercicios\Lista 1 Extra C#\Exerc06\Exerc06\obj\Debug\Exerc06.exe
+E:\DS Helio\Lista de exercicios\Lista 1 Extra C#\Exerc06\Exerc06\obj\Debug\Exerc06.pdb

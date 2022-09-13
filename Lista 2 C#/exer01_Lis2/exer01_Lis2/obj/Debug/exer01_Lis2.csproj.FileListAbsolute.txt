@@ -1,0 +1,7 @@
+E:\2º Módulo DS\DS-Hélio\Lista2\exer01_Lis2\exer01_Lis2\bin\Debug\exer01_Lis2.exe.config
+E:\2º Módulo DS\DS-Hélio\Lista2\exer01_Lis2\exer01_Lis2\bin\Debug\exer01_Lis2.exe
+E:\2º Módulo DS\DS-Hélio\Lista2\exer01_Lis2\exer01_Lis2\bin\Debug\exer01_Lis2.pdb
+E:\2º Módulo DS\DS-Hélio\Lista2\exer01_Lis2\exer01_Lis2\obj\Debug\exer01_Lis2.csprojAssemblyReference.cache
+E:\2º Módulo DS\DS-Hélio\Lista2\exer01_Lis2\exer01_Lis2\obj\Debug\exer01_Lis2.csproj.CoreCompileInputs.cache
+E:\2º Módulo DS\DS-Hélio\Lista2\exer01_Lis2\exer01_Lis2\obj\Debug\exer01_Lis2.exe
+E:\2º Módulo DS\DS-Hélio\Lista2\exer01_Lis2\exer01_Lis2\obj\Debug\exer01_Lis2.pdb
