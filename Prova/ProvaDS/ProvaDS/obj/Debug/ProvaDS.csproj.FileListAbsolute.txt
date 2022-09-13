@@ -1,0 +1,7 @@
+E:\DS Helio\Prova\ProvaDS\ProvaDS\bin\Debug\ProvaDS.exe.config
+E:\DS Helio\Prova\ProvaDS\ProvaDS\bin\Debug\ProvaDS.exe
+E:\DS Helio\Prova\ProvaDS\ProvaDS\bin\Debug\ProvaDS.pdb
+E:\DS Helio\Prova\ProvaDS\ProvaDS\obj\Debug\ProvaDS.csprojAssemblyReference.cache
+E:\DS Helio\Prova\ProvaDS\ProvaDS\obj\Debug\ProvaDS.csproj.CoreCompileInputs.cache
+E:\DS Helio\Prova\ProvaDS\ProvaDS\obj\Debug\ProvaDS.exe
+E:\DS Helio\Prova\ProvaDS\ProvaDS\obj\Debug\ProvaDS.pdb

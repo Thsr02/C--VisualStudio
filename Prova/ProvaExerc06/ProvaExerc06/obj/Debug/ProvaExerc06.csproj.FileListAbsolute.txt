@@ -1,0 +1,6 @@
+E:\DS Helio\Prova\ProvaExerc06\ProvaExerc06\bin\Debug\ProvaExerc06.exe.config
+E:\DS Helio\Prova\ProvaExerc06\ProvaExerc06\bin\Debug\ProvaExerc06.exe
+E:\DS Helio\Prova\ProvaExerc06\ProvaExerc06\bin\Debug\ProvaExerc06.pdb
+E:\DS Helio\Prova\ProvaExerc06\ProvaExerc06\obj\Debug\ProvaExerc06.csproj.CoreCompileInputs.cache
+E:\DS Helio\Prova\ProvaExerc06\ProvaExerc06\obj\Debug\ProvaExerc06.exe
+E:\DS Helio\Prova\ProvaExerc06\ProvaExerc06\obj\Debug\ProvaExerc06.pdb
