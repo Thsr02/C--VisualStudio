@@ -1,0 +1,8 @@
+C:\Users\Administrador.BALANCA2-OND\Documents\CyberLink\Exercicios-Guanabara\C--VisualStudio\Exerc10\Exerc10\bin\Debug\Exerc10.exe.config
+C:\Users\Administrador.BALANCA2-OND\Documents\CyberLink\Exercicios-Guanabara\C--VisualStudio\Exerc10\Exerc10\bin\Debug\Exerc10.exe
+C:\Users\Administrador.BALANCA2-OND\Documents\CyberLink\Exercicios-Guanabara\C--VisualStudio\Exerc10\Exerc10\bin\Debug\Exerc10.pdb
+C:\Users\Administrador.BALANCA2-OND\Documents\CyberLink\Exercicios-Guanabara\C--VisualStudio\Exerc10\Exerc10\obj\Debug\Exerc10.csproj.AssemblyReference.cache
+C:\Users\Administrador.BALANCA2-OND\Documents\CyberLink\Exercicios-Guanabara\C--VisualStudio\Exerc10\Exerc10\obj\Debug\Exerc10.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrador.BALANCA2-OND\Documents\CyberLink\Exercicios-Guanabara\C--VisualStudio\Exerc10\Exerc10\obj\Debug\Exerc10.csproj.CoreCompileInputs.cache
+C:\Users\Administrador.BALANCA2-OND\Documents\CyberLink\Exercicios-Guanabara\C--VisualStudio\Exerc10\Exerc10\obj\Debug\Exerc10.exe
+C:\Users\Administrador.BALANCA2-OND\Documents\CyberLink\Exercicios-Guanabara\C--VisualStudio\Exerc10\Exerc10\obj\Debug\Exerc10.pdb
