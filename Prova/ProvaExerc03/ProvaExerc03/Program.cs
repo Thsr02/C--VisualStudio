@@ -24,7 +24,7 @@ namespace ProvaExerc03
             }else if(idade <= 17) {
                 Console.WriteLine("JUVENIL B");
             }else{
-                Console.WriteLine("MAIORES DE 18");
+                Console.WriteLine("ADULTO \nMAIORES DE 18");
             }
             Console.ReadKey();
         }

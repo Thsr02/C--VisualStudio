@@ -5,3 +5,11 @@ E:\DS Helio\Prova\ProvaDS\ProvaDS\obj\Debug\ProvaDS.csprojAssemblyReference.cach
 E:\DS Helio\Prova\ProvaDS\ProvaDS\obj\Debug\ProvaDS.csproj.CoreCompileInputs.cache
 E:\DS Helio\Prova\ProvaDS\ProvaDS\obj\Debug\ProvaDS.exe
 E:\DS Helio\Prova\ProvaDS\ProvaDS\obj\Debug\ProvaDS.pdb
+C:\Users\Thiago\Repositorio\C--VisualStudio\Prova\ProvaDS\ProvaDS\bin\Debug\ProvaDS.exe.config
+C:\Users\Thiago\Repositorio\C--VisualStudio\Prova\ProvaDS\ProvaDS\bin\Debug\ProvaDS.exe
+C:\Users\Thiago\Repositorio\C--VisualStudio\Prova\ProvaDS\ProvaDS\bin\Debug\ProvaDS.pdb
+C:\Users\Thiago\Repositorio\C--VisualStudio\Prova\ProvaDS\ProvaDS\obj\Debug\ProvaDS.csproj.AssemblyReference.cache
+C:\Users\Thiago\Repositorio\C--VisualStudio\Prova\ProvaDS\ProvaDS\obj\Debug\ProvaDS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thiago\Repositorio\C--VisualStudio\Prova\ProvaDS\ProvaDS\obj\Debug\ProvaDS.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Repositorio\C--VisualStudio\Prova\ProvaDS\ProvaDS\obj\Debug\ProvaDS.exe
+C:\Users\Thiago\Repositorio\C--VisualStudio\Prova\ProvaDS\ProvaDS\obj\Debug\ProvaDS.pdb

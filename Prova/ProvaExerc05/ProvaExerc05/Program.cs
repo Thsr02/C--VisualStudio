@@ -18,13 +18,13 @@ namespace ProvaExerc05
             if(saldo ==0 || saldo <= 200) {
                 Console.WriteLine("Saldo médio " + saldo + " Nenhum crédito especial");
             }else if(saldo <= 400) {
-                saldo = saldo + (saldo * 0.20 / 100);
+                saldo = saldo + (saldo * 0.20);
                 Console.WriteLine("Saldo médio " + saldo + " 20% do valor do crédito especial");
             }else if(saldo <= 600) {
-                saldo = saldo + (saldo * 0.30 / 100);
+                saldo = saldo + (saldo * 0.30);
                 Console.WriteLine("Saldo médio " + saldo + " 30% do valor do crédito especial");
             }else{
-                saldo = saldo + (saldo * 0.40 / 100);
+                saldo = saldo + (saldo * 0.40);
                 Console.WriteLine("Saldo médio " + saldo + " 40% do valor do crédito especial");
             }
             Console.ReadKey();

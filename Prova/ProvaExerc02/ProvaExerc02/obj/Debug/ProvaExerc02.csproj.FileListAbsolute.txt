@@ -4,3 +4,11 @@ E:\DS Helio\Prova\ProvaExerc02\ProvaExerc02\bin\Debug\ProvaExerc02.pdb
 E:\DS Helio\Prova\ProvaExerc02\ProvaExerc02\obj\Debug\ProvaExerc02.csproj.CoreCompileInputs.cache
 E:\DS Helio\Prova\ProvaExerc02\ProvaExerc02\obj\Debug\ProvaExerc02.exe
 E:\DS Helio\Prova\ProvaExerc02\ProvaExerc02\obj\Debug\ProvaExerc02.pdb
+C:\Users\Thiago\Repositorio\C--VisualStudio\Prova\ProvaExerc02\ProvaExerc02\bin\Debug\ProvaExerc02.exe.config
+C:\Users\Thiago\Repositorio\C--VisualStudio\Prova\ProvaExerc02\ProvaExerc02\bin\Debug\ProvaExerc02.exe
+C:\Users\Thiago\Repositorio\C--VisualStudio\Prova\ProvaExerc02\ProvaExerc02\bin\Debug\ProvaExerc02.pdb
+C:\Users\Thiago\Repositorio\C--VisualStudio\Prova\ProvaExerc02\ProvaExerc02\obj\Debug\ProvaExerc02.csproj.AssemblyReference.cache
+C:\Users\Thiago\Repositorio\C--VisualStudio\Prova\ProvaExerc02\ProvaExerc02\obj\Debug\ProvaExerc02.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thiago\Repositorio\C--VisualStudio\Prova\ProvaExerc02\ProvaExerc02\obj\Debug\ProvaExerc02.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Repositorio\C--VisualStudio\Prova\ProvaExerc02\ProvaExerc02\obj\Debug\ProvaExerc02.exe
+C:\Users\Thiago\Repositorio\C--VisualStudio\Prova\ProvaExerc02\ProvaExerc02\obj\Debug\ProvaExerc02.pdb
