@@ -4,15 +4,14 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9E2A900C-7481-414F-A229-30BC58D5F17D}</ProjectGuid>
+    <ProjectGuid>{C0527199-63E9-4468-9661-B32D06C32311}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ProvaExerc08</RootNamespace>
-    <AssemblyName>ProvaExerc08</AssemblyName>
-    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <RootNamespace>ProvaExerc12</RootNamespace>
+    <AssemblyName>ProvaExerc12</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
-    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>

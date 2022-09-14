@@ -1,0 +1,8 @@
+C:\Users\Thiago\Repositorio\C--VisualStudio\Prova\ProvaExerc10\ProvaExerc10\bin\Debug\ProvaExerc10.exe.config
+C:\Users\Thiago\Repositorio\C--VisualStudio\Prova\ProvaExerc10\ProvaExerc10\bin\Debug\ProvaExerc10.exe
+C:\Users\Thiago\Repositorio\C--VisualStudio\Prova\ProvaExerc10\ProvaExerc10\bin\Debug\ProvaExerc10.pdb
+C:\Users\Thiago\Repositorio\C--VisualStudio\Prova\ProvaExerc10\ProvaExerc10\obj\Debug\ProvaExerc10.csproj.AssemblyReference.cache
+C:\Users\Thiago\Repositorio\C--VisualStudio\Prova\ProvaExerc10\ProvaExerc10\obj\Debug\ProvaExerc10.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thiago\Repositorio\C--VisualStudio\Prova\ProvaExerc10\ProvaExerc10\obj\Debug\ProvaExerc10.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Repositorio\C--VisualStudio\Prova\ProvaExerc10\ProvaExerc10\obj\Debug\ProvaExerc10.exe
+C:\Users\Thiago\Repositorio\C--VisualStudio\Prova\ProvaExerc10\ProvaExerc10\obj\Debug\ProvaExerc10.pdb
