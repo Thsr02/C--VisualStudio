@@ -1,0 +1,7 @@
+F:\DS Helio\Lista de exercicios\Nova pasta\Exerc01\Exerc01\bin\Debug\Exerc01.exe.config
+F:\DS Helio\Lista de exercicios\Nova pasta\Exerc01\Exerc01\bin\Debug\Exerc01.exe
+F:\DS Helio\Lista de exercicios\Nova pasta\Exerc01\Exerc01\bin\Debug\Exerc01.pdb
+F:\DS Helio\Lista de exercicios\Nova pasta\Exerc01\Exerc01\obj\Debug\Exerc01.csprojAssemblyReference.cache
+F:\DS Helio\Lista de exercicios\Nova pasta\Exerc01\Exerc01\obj\Debug\Exerc01.csproj.CoreCompileInputs.cache
+F:\DS Helio\Lista de exercicios\Nova pasta\Exerc01\Exerc01\obj\Debug\Exerc01.exe
+F:\DS Helio\Lista de exercicios\Nova pasta\Exerc01\Exerc01\obj\Debug\Exerc01.pdb
