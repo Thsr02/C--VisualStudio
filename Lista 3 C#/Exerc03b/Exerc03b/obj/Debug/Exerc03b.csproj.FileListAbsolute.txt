@@ -1,0 +1,8 @@
+C:\Users\Administrador.BALANCA2-OND\Documents\CyberLink\Exercicios-Guanabara\C--VisualStudio\Lista 3 C#\Exerc03b\Exerc03b\bin\Debug\Exerc03b.exe.config
+C:\Users\Administrador.BALANCA2-OND\Documents\CyberLink\Exercicios-Guanabara\C--VisualStudio\Lista 3 C#\Exerc03b\Exerc03b\bin\Debug\Exerc03b.exe
+C:\Users\Administrador.BALANCA2-OND\Documents\CyberLink\Exercicios-Guanabara\C--VisualStudio\Lista 3 C#\Exerc03b\Exerc03b\bin\Debug\Exerc03b.pdb
+C:\Users\Administrador.BALANCA2-OND\Documents\CyberLink\Exercicios-Guanabara\C--VisualStudio\Lista 3 C#\Exerc03b\Exerc03b\obj\Debug\Exerc03b.csproj.AssemblyReference.cache
+C:\Users\Administrador.BALANCA2-OND\Documents\CyberLink\Exercicios-Guanabara\C--VisualStudio\Lista 3 C#\Exerc03b\Exerc03b\obj\Debug\Exerc03b.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrador.BALANCA2-OND\Documents\CyberLink\Exercicios-Guanabara\C--VisualStudio\Lista 3 C#\Exerc03b\Exerc03b\obj\Debug\Exerc03b.csproj.CoreCompileInputs.cache
+C:\Users\Administrador.BALANCA2-OND\Documents\CyberLink\Exercicios-Guanabara\C--VisualStudio\Lista 3 C#\Exerc03b\Exerc03b\obj\Debug\Exerc03b.exe
+C:\Users\Administrador.BALANCA2-OND\Documents\CyberLink\Exercicios-Guanabara\C--VisualStudio\Lista 3 C#\Exerc03b\Exerc03b\obj\Debug\Exerc03b.pdb
