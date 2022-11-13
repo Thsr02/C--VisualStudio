@@ -1,0 +1,8 @@
+C:\Users\Thiago\Repositorio\C--VisualStudio\GerenciadorPedido\GerenciadorPedido\bin\Debug\GerenciadorPedido.exe.config
+C:\Users\Thiago\Repositorio\C--VisualStudio\GerenciadorPedido\GerenciadorPedido\bin\Debug\GerenciadorPedido.exe
+C:\Users\Thiago\Repositorio\C--VisualStudio\GerenciadorPedido\GerenciadorPedido\bin\Debug\GerenciadorPedido.pdb
+C:\Users\Thiago\Repositorio\C--VisualStudio\GerenciadorPedido\GerenciadorPedido\obj\Debug\GerenciadorPedido.csproj.AssemblyReference.cache
+C:\Users\Thiago\Repositorio\C--VisualStudio\GerenciadorPedido\GerenciadorPedido\obj\Debug\GerenciadorPedido.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thiago\Repositorio\C--VisualStudio\GerenciadorPedido\GerenciadorPedido\obj\Debug\GerenciadorPedido.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Repositorio\C--VisualStudio\GerenciadorPedido\GerenciadorPedido\obj\Debug\GerenciadorPedido.exe
+C:\Users\Thiago\Repositorio\C--VisualStudio\GerenciadorPedido\GerenciadorPedido\obj\Debug\GerenciadorPedido.pdb

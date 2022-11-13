@@ -1,0 +1,108 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  transition: .3s; 
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #252827;
+  display: grid;
+  place-content: center;
+  height: 100vh;
+  padding: 55px;
+  color: #fff;
+}
+body,
+html {
+  height: 100%;
+  margin: 0;
+  padding: 0;            
+  background: rgb(26, 188, 156);
+  background: -moz-linear-gradient(-45deg, rgba(26, 188, 156, 1) 0%, rgba(142, 68, 173, 1) 100%);
+  background: -webkit-linear-gradient(-45deg, rgba(26, 188, 156, 1) 0%, rgba(142, 68, 173, 1) 100%);
+  background: linear-gradient(135deg, rgba(26, 188, 156, 1) 0%, rgba(142, 68, 173, 1) 100%);
+}
+
+/* ======================== */
+
+:root {
+  --imagesize: 300px;
+  --transform:  calc(var(--imagesize) / 2);
+}
+.wrapper {
+  perspective: 800px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+}
+.wrapper:hover {
+    transform: scale(1.5); 
+}
+.wrapper:hover .side {
+    opacity: 1;
+} 
+.cube {
+  transform-style: preserve-3d;
+  position: relative;
+  width: var(--imagesize);
+  height: var(--imagesize);
+  animation: rotate 10s ease-in-out infinite;
+  transform-origin: center center;
+}
+
+.side {
+  position: absolute;
+  width: var(--imagesize);
+  height: var(--imagesize); 
+  background-color: #333;
+  opacity: .95;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.back {
+  transform: translateZ(-150px) rotateX(180deg);
+  background-image: url(https://raceoflearning.com/wp-content/app/images/3d-cube/ad.png);
+}
+
+.left {
+  transform: translateX(-150px) rotateY(90deg);
+  background-image: url(https://raceoflearning.com/wp-content/app/images/3d-cube/3.png);
+}
+
+.right {
+  transform: translateX(var(--transform)) rotateY(90deg);
+  background-image: url(https://raceoflearning.com/wp-content/app/images/3d-cube/2.png);
+}
+
+.top {
+  transform: translateY(-150px) rotateX(90deg);
+  background-image: url(https://raceoflearning.com/wp-content/app/images/3d-cube/css.png);
+  
+}
+
+.bottom {
+  transform: translateY(var(--transform)) rotateX(270deg);
+  background-image: url(https://raceoflearning.com/wp-content/app/images/3d-cube/1.png);
+}
+
+.front {
+  transform: translateZ(var(--transform));
+  background-image: url(https://raceoflearning.com/wp-content/app/images/3d-cube/js.png);
+}
+
+@keyframes rotate {
+  0% { transform: rotateX(0)}
+  12.5% { transform: rotateY(90deg)}
+  25% { transform: rotateY(270deg)}
+  37.5% { transform: rotateY(270deg)}
+  50% { transform: rotateY(360deg)}
+  62.5% { transform: rotateX(90deg)}
+  75% { transform: rotateX(180deg)}
+  87.5% { transform: rotateX(270deg)}
+  100% { transform: rotateX(360deg)}
+}
